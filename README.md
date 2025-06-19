@@ -24,11 +24,12 @@ The goal is to turn these insights into practical recommendations that can help 
 
 📊  **Visualisations:**
 
-<img src="images\revenueshare_by_segment.png" width=75%>
+<img src="images\revenueshare_by_segment.png" alt="revenue share by segment" style="width: 50%; height: auto;">
 
-![LTV percentage VS Customer Count by Segment](images\ltv_pct_vs_customer_count_by_segment.png)
+<img src="images\ltv_pct_vs_customer_count_by_segment.png" alt="LTV percentage VS Customer Count by Segment" style="width: 75%; height: auto;">
 
-![Average LTV by Segment](images\avg_ltv_by_segment.png)
+<img src="images\avg_ltv_by_segment.png" alt="Average LTV by Segment" style="width: 75%; height: auto;">
+
 
 📌 **Key Findings:**
 
@@ -58,9 +59,11 @@ The goal is to turn these insights into practical recommendations that can help 
 
 📊  **Visualisations:**
 
-![Customer Revenue By First Purchase Year](images\customer_rev_by_first_purchase_year.png)
+<img src="images\customer_rev_by_first_purchase_year.png" alt="Customer Revenue By First Purchase Year" style="width: 75%; height: auto;">
 
-![Monthly Revenue Vs Customer Count](images\monthly_rev_vs_customer_count.png)
+
+<img src="images\monthly_rev_vs_customer_count.png" alt="Monthly Revenue Vs Customer Count" style="width: 100%; height: auto;">
+
 
 📌 **Key Findings:** 
 
@@ -88,8 +91,9 @@ The goal is to turn these insights into practical recommendations that can help 
 
 📊  **Visualisations:**
 
-<img src="images\customer_status_pct.png" width=75%>
+<img src="images\customer_status_pct.png" width=50%>
 
+<img src="images\customer_status_by_cohort.png" alt="customer_status_by_cohort" style="width: 80%; height: auto;">
 ![customer_status_by_cohort](images\customer_status_by_cohort.png)
 
 📌 **Key Findings:**
