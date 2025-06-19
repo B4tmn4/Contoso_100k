@@ -1,0 +1,4 @@
+"customer_status","num_customers","total_customers","status_pct"
+Active,2076,46913,4.43
+At Risk,2365,46913,5.04
+Churned,42472,46913,90.53
