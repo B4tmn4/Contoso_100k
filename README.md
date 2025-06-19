@@ -94,7 +94,7 @@ The goal is to turn these insights into practical recommendations that can help 
 <img src="images\customer_status_pct.png" width=50%>
 
 <img src="images\customer_status_by_cohort.png" alt="customer_status_by_cohort" style="width: 80%; height: auto;">
-![customer_status_by_cohort](images\customer_status_by_cohort.png)
+
 
 📌 **Key Findings:**
 
